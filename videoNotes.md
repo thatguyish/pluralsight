@@ -25,4 +25,4 @@
 - displays what saved states are in the stash 
 
 > git stash pop
-> removes saved state from stash 
+- removes saved state from stash 
